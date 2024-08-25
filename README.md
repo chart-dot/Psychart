@@ -45,7 +45,6 @@ Public input file
 
 Then, you can send the proof to the Aligned network by running the following command
 
-Copy
 aligned submit \
   --proving_system Risc0 \
   --proof <proof_file_path> \
