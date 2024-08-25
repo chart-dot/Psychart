@@ -82,14 +82,8 @@ ERC1155: Fungibility agnosting smart contract
 
 Learn more on how to create, build and deploy, the smart contracts in the [Docs](https://github.com/ava-labs/avalanche-starter-kit/tree/main/src).
 
-<p align="center">
-    <br />
-    <a href="[(https://pouch.jumpshare.com/preview/PVhNAxNOoKGi4_zJdG61zLaXnM-adPPd9axH-PetxMKnlynRl0llzw_nNNBPvzQ4Jc-9rlX5rWu8GvHQBUOlM7pd_5s3tfw7u40JkbNGMyQ)]">
-        <img src=".github/images/cw3d-logo.png" width="200" alt=""/></a>
-    <br />
-</p>
 
-
+![User-candidate flow](https://pouch.jumpshare.com/preview/PVhNAxNOoKGi4_zJdG61zLaXnM-adPPd9axH-PetxMKnlynRl0llzw_nNNBPvzQ4Jc-9rlX5rWu8GvHQBUOlM7pd_5s3tfw7u40JkbNGMyQ)
 
 
 ## Storage the metadata
