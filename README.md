@@ -31,6 +31,8 @@ We set up a L1  with Avalanche C-chain
 We deploy the contract on the network 
 We storage the data in Filecoin
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ID Validator
 
 After generating the proof, you will have to find three different files:
@@ -58,6 +60,8 @@ aligned submit \
 
 -   [Docs](https://docs.alignedlayer.com/guides/4_generating_proofs) 
   
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Smart Contract Validator
 
