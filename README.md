@@ -13,7 +13,10 @@ the efficiency of talent selection and reducing employee churn.
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Avalanche C-Chain (EVM)][[JQuery.com](https://www.avax.network/)]][JQuery-url]
 
+Frameworks (Hardhat, Truffle, etc.)
+Additional tools (MetaMask, Remix, etc.)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -68,7 +71,7 @@ Avalanche's C-Chain is compatible with the Ethereum Virtual Machine (EVM), makin
 
 The following code example will show you how to send, receive and verify the Results using Avalanche blockchain : teleporter and foundry.
 
-$ git clone https://example.com
+$ git clone 
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
