@@ -8,15 +8,14 @@ the efficiency of talent selection and reducing employee churn.
 
 ### Built With
 
+Avalanche C-Chain (EVM)
+Solidity
+JavaScript
+React
+Align
+Foundry
+Metamask
 
-* [![React][React.js]][React-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Avalanche C-Chain (EVM)][[JQuery.com](https://www.avax.network/)]][JQuery-url]
-
-Frameworks (Hardhat, Truffle, etc.)
-Additional tools (MetaMask, Remix, etc.)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -24,12 +23,12 @@ Additional tools (MetaMask, Remix, etc.)
 <!-- GETTING STARTED -->
 ## Getting Started
 
-
+SUMMARIZE
 
 We set up a Aligned ID development environment with Ethereum
 We develop a simple dapp with Java Script - React that needs to store data, 
 using  to connect to the blockchain.
-We write a smart contract - NFT with that guarantees the validation of the results of the Tests
+We write a smart contract - NFT in RC721 with that guarantees the validation of the results of the Tests
 We set up a L1  with Avalanche C-chain
 We deploy the contract on the network 
 We storage the data in Filecoin
@@ -71,8 +70,8 @@ Avalanche's C-Chain is compatible with the Ethereum Virtual Machine (EVM), makin
 
 The following code example will show you how to send, receive and verify the Results using Avalanche blockchain : teleporter and foundry.
 
-$ git clone 
-$ cd ../path/to/the/file
+$ git clone /ava-labs/avalanche-starter-kit/
+$ cd ../tree/main/src/0-send-receive
 $ npm install
 $ npm start
 
@@ -90,4 +89,4 @@ Learn more on how to create, build and deploy, the smart contracts in the [Docs]
 
 ## Storage the metadata
 
-
+We will use NFt.Storage to preserve the NFT data by verifying it on the filecoin network
