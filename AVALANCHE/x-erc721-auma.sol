@@ -16,9 +16,9 @@ contract ValidationNFTBridge is ERC721, ERC721Burnable {
 
     mapping(uint256 => TestResult) public testResults;
 
-    string private constant _TOKEN_NAME = "ValidationNFT";
-    string private constant _TOKEN_SYMBOL = "VNFT";
-    string private constant _TOKEN_URI = "https://example.com/ipfs/";
+    string private constant _TOKEN_NAME = "Auma Token";
+    string private constant _TOKEN_SYMBOL = "AUMA";
+    string private constant _TOKEN_URI = "https:/example.com/ipfs/";
 
     constructor() ERC721(_TOKEN_NAME, _TOKEN_SYMBOL) {}
 
